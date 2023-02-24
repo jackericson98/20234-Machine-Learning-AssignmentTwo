@@ -25,3 +25,6 @@ As you can see the Logistic Regression model preformed the best out of the three
 ![image](https://user-images.githubusercontent.com/62311229/221058852-32c1e3dd-a56a-46a8-8349-dffd67d5f437.png)
 
 ### Decision Tree Alcohol vs Alkalinity of Ash plot
+![image](https://user-images.githubusercontent.com/62311229/221059166-7a8a1972-55eb-4b20-8037-0b7c4f3f85e9.png)
+
+### Logistic Regression Alcohol vs Alkalinity of Ash plot
